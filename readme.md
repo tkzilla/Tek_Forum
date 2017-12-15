@@ -3,23 +3,14 @@ This repository contains Python code from the Remote Instrument Communication Ex
 Code Header Format:
 
 """
-
 Script Title
-
 Author: firstName lastName
-
 Updated: mm/yy
-
 Program Description
-
 OS Information, VISA Information, Python Information
-
 Python Package Information
-
 Programmer Manual Download Links
-
 Tested on Instruments/Software
-
 """
 
 
