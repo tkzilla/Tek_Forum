@@ -2,7 +2,6 @@ This repository contains Python code from the Remote Instrument Communication Ex
 
 Code Header Format:
 
-"""
 Script Title
 Author: firstName lastName
 Updated: mm/yy
@@ -11,12 +10,10 @@ OS Information, VISA Information, Python Information
 Python Package Information
 Programmer Manual Download Links
 Tested on Instruments/Software
-"""
 
 
 Example:
 
-"""
 VISA Control: RSA AvT Transfer
 Author: Morgan Allison
 Updated: 11/17
@@ -29,4 +26,3 @@ https://www.tek.com/product-software-series/signalvu-pc-manual/signalvu-pc-1
 Download RSA5100B programmer manual:
 http://www.tek.com/spectrum-analyzer/inst5000-manual-7
 Tested on RSA306B, RSA507A, and RSA5126B
-"""
